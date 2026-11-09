@@ -4,13 +4,11 @@ FreeCAD source file and 3MF print file
 
 ## Description
 
-
+An endoscope camera adaptor to be mounted onto a standard drain cleaning helix (diameter 15.5 mm). Various inexpensive endoscope should fit. Standard cable ties can be used to fix the camera onto the adaptor.
 
 ## Printing Recommendations
 
 - Material: PLA / PETG / ABS
-- Layer height: [e.g. 0.2 mm]
-- Infill: [e.g. 15–20 %]
 - Supports: Yes 
 
 ## License
